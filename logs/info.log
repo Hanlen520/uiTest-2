@@ -1330,3 +1330,248 @@
 2018-12-17 20:52:35 [root] [INFO] :20: 在此时进行截图！！
 2018-12-17 20:52:36 [root] [INFO] :20: 已成功生成截图，请确认！
 2018-12-17 20:52:38 [root] [INFO] :20: 退出浏览器
+2018-12-24 15:03:42 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:03:42 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:03:42 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:03:42 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:03:43 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:03:43 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:03:43 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:46:27 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:46:27 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:46:28 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:46:28 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:46:28 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:46:28 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:46:29 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:46:29 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:46:32 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 15:46:32 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 15:46:34 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 15:48:33 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:48:33 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:48:33 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:48:33 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:48:34 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:48:34 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:48:34 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:48:34 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:48:39 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 15:48:39 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 15:48:41 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 15:50:31 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:50:31 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:50:32 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:50:32 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:50:32 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:50:32 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:50:33 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:50:33 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:50:33 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:50:33 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:50:39 [root] [INFO] :20: 退出浏览器
+2018-12-24 15:54:35 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:54:35 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:54:36 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:54:36 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:54:37 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:54:37 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:54:37 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:54:37 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:54:37 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:54:37 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:54:44 [root] [INFO] :20: 退出浏览器
+2018-12-24 15:55:02 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:55:02 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:55:03 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:55:03 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:55:03 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:55:03 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:55:03 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:55:03 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:55:03 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:55:03 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:55:10 [root] [INFO] :20: 退出浏览器
+2018-12-24 15:58:24 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 15:58:24 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 15:58:25 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 15:58:25 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 15:58:25 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 15:58:25 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 15:58:26 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 15:58:26 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 15:58:26 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:58:26 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 15:58:33 [root] [INFO] :20: 退出浏览器
+2018-12-24 16:02:14 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:02:14 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:02:15 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:02:15 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:02:15 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:02:15 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:02:16 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:02:21 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:02:21 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:02:21 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:02:28 [root] [INFO] :20: 退出浏览器
+2018-12-24 16:04:13 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:04:13 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:04:14 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:04:14 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:04:15 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:04:15 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:04:15 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:04:20 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:04:21 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:04:21 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:04:24 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:05:14 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:05:14 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:05:15 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:05:15 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:05:16 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:05:16 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:05:16 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:05:24 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:05:24 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:05:24 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:05:32 [root] [INFO] :20: 退出浏览器
+2018-12-24 16:06:27 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:06:27 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:06:27 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:06:27 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:06:28 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:06:28 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:06:28 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:06:36 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:06:36 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:06:36 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 16:06:43 [root] [INFO] :20: 退出浏览器
+2018-12-24 16:13:34 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:13:34 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:13:36 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:13:36 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:13:37 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:13:37 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:13:37 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:13:45 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:13:47 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:13:47 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:13:51 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:16:25 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:16:25 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:16:26 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:16:26 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:16:26 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:16:26 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:16:26 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:16:34 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:16:36 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:16:36 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:16:38 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:23:15 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:23:15 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:23:16 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:23:16 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:23:16 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:23:16 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:23:17 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:23:25 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:23:26 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:23:26 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:23:31 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:24:05 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:24:05 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:24:06 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:24:06 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:24:06 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:24:06 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:24:07 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:24:07 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:24:11 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:24:11 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:24:13 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:31:29 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:31:29 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:31:30 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:31:30 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:31:31 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:31:31 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:31:31 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:31:31 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:31:36 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:31:36 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:31:38 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 16:32:39 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 16:32:39 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 16:32:40 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 16:32:40 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 16:32:41 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 16:32:41 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 16:32:41 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 16:32:41 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 16:32:48 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 16:32:48 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 16:32:51 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 17:16:28 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 17:16:28 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 17:16:29 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 17:16:29 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 17:16:29 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 17:16:29 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 17:16:29 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 17:16:29 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 17:16:32 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 17:16:32 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 17:16:34 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 17:21:01 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 17:21:01 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 17:21:02 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 17:21:02 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 17:21:02 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 17:21:02 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 17:21:02 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 17:21:02 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 17:21:07 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 17:21:07 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 17:21:09 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 19:51:19 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 19:51:19 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 19:51:19 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 19:51:19 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 19:51:19 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 19:51:19 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 19:51:19 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 19:51:19 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 19:51:24 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 19:51:24 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 19:51:26 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 19:51:32 [root] [INFO] :20: 退出浏览器
+2018-12-24 19:54:18 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 19:54:18 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 19:54:18 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 19:54:18 [root] [INFO] :20: 在此时进行截图！！
+2018-12-24 19:54:35 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 19:54:35 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 19:54:37 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 19:54:37 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 19:54:37 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 19:54:37 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 19:54:38 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 19:54:38 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 19:54:43 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 19:54:43 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 19:54:47 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 19:54:55 [root] [INFO] :20: 退出浏览器
+2018-12-24 19:56:53 [root] [INFO] :20: 访问网址：https://www.djcps.com/login.html
+2018-12-24 19:56:53 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->username
+2018-12-24 19:56:54 [root] [INFO] :20: 元素:('id', 'username'),输入文本：17826826147
+2018-12-24 19:56:54 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->password
+2018-12-24 19:56:55 [root] [INFO] :20: 元素:('id', 'password'),输入文本：zyk123456
+2018-12-24 19:56:55 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->login-button
+2018-12-24 19:56:55 [root] [INFO] :20: 点击元素:('id', 'login-button')
+2018-12-24 19:56:55 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchBox
+2018-12-24 19:57:02 [root] [INFO] :20: 元素:('id', 'searchBox'),输入文本：东富1号
+2018-12-24 19:57:02 [root] [INFO] :20: 正在定位元素信息：定位方式->id, value值->searchImage
+2018-12-24 19:57:05 [root] [INFO] :20: 点击元素:('id', 'searchImage')
+2018-12-24 19:57:08 [root] [INFO] :20: 退出浏览器

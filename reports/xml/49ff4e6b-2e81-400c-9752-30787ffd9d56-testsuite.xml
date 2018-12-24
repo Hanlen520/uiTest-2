@@ -1,0 +1,39 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545652594106" stop="1545652625171">
+  <name>testcase.groupbuy.test_index</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545652594106" status="passed" stop="1545652625171">
+      <name>TestIndex.test_search</name>
+      <attachments/>
+      <labels>
+        <label name="testId" value="用例名：搜索东富1号"/>
+        <label name="feature" value="主页面测试用例集"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="142796-MainThread"/>
+        <label name="host" value="DESKTOP-096T9GN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545652601076" status="passed" stop="1545652615860">
+          <name>登陆团购系统</name>
+          <title>登陆团购系统</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1545652615861" status="passed" stop="1545652625170">
+          <name>搜索东富1号</name>
+          <title>搜索东富1号</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1545652625171" status="passed" stop="1545652628875">
+          <name>用例结束后，关闭浏览器</name>
+          <title>用例结束后，关闭浏览器</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

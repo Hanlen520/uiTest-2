@@ -1,12 +1,12 @@
 {
-  "uid" : "39a7dc2f2e8d065a",
-  "name" : "TestLogin.test_login_001",
-  "fullName" : "test_login.TestLogin.test_login_001",
-  "historyId" : "d915135e1209dac7efe3aff3ebe2814b",
+  "uid" : "ef50184473f1e486",
+  "name" : "TestIndex.test_search",
+  "fullName" : "testcase.groupbuy.test_index.TestIndex.test_search",
+  "historyId" : "227f477879ca3f5cccf97398e56095f2",
   "time" : {
-    "start" : 1545051148872,
-    "stop" : 1545051154842,
-    "duration" : 5970
+    "start" : 1545652594106,
+    "stop" : 1545652625171,
+    "duration" : 31065
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -16,53 +16,62 @@
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
-      "name" : "初始化启动浏览器",
+      "name" : "登陆团购系统",
       "time" : {
-        "start" : 1545051148874,
-        "stop" : 1545051152270,
-        "duration" : 3396
+        "start" : 1545652601076,
+        "stop" : 1545652615860,
+        "duration" : 14784
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
       "hasContent" : false,
       "stepsCount" : 0
     }, {
-      "name" : "登陆CRM",
+      "name" : "搜索东富1号",
       "time" : {
-        "start" : 1545051152270,
-        "stop" : 1545051154841,
-        "duration" : 2571
+        "start" : 1545652615861,
+        "stop" : 1545652625170,
+        "duration" : 9309
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "用例结束后，关闭浏览器",
+      "time" : {
+        "start" : 1545652625171,
+        "stop" : 1545652628875,
+        "duration" : 3704
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
       "hasContent" : false,
       "stepsCount" : 0
     } ],
-    "attachments" : [ {
-      "uid" : "4ae5f96d30575a6e",
-      "name" : "Captured log call",
-      "source" : "4ae5f96d30575a6e.txt",
-      "type" : "text/plain",
-      "size" : 956
-    } ],
+    "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
     "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
     "hasContent" : true,
-    "stepsCount" : 2
+    "stepsCount" : 3
   },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "feature",
-    "value" : "CRM登陆"
+    "value" : "主页面测试用例集"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -77,30 +86,30 @@
     "value" : "normal"
   }, {
     "name" : "testId",
-    "value" : "用例名：登陆CRM——正常场景"
+    "value" : "用例名：搜索东富1号"
   }, {
     "name" : "thread",
-    "value" : "28340-MainThread"
+    "value" : "142796-MainThread"
   }, {
     "name" : "suite",
-    "value" : "test_login"
+    "value" : "testcase.groupbuy.test_index"
   }, {
     "name" : "testClass",
-    "value" : "test_login"
+    "value" : "testcase.groupbuy.test_index"
   }, {
     "name" : "testMethod",
-    "value" : "TestLogin.test_login_001"
+    "value" : "TestIndex.test_search"
   }, {
     "name" : "package",
-    "value" : "test_login"
+    "value" : "testcase.groupbuy.test_index"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
   } ],
   "parameters" : [ ],
   "links" : [ {
-    "name" : "用例名：登陆CRM——正常场景",
-    "url" : "用例名：登陆CRM——正常场景",
+    "name" : "用例名：搜索东富1号",
+    "url" : "用例名：搜索东富1号",
     "type" : "tms"
   } ],
   "hidden" : false,
@@ -111,6 +120,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "39a7dc2f2e8d065a.json",
+  "source" : "ef50184473f1e486.json",
   "parameterValues" : [ ]
 }

@@ -2,7 +2,7 @@
 
 testSuite:
     module:
-        crm/test_login.py
+        groupbuy/test_index.py
 
 #设置失败重跑次数
 

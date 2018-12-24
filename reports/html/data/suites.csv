@@ -1,3 +1,2 @@
 "Status","Name","Duration in ms","Description"
-"passed","test_login.TestLogin.test_login_001","5970",""
-"passed","test_login.TestLogin.test_login_002","1201",""
+"passed","testcase.groupbuy.test_index.TestIndex.test_search","31065",""

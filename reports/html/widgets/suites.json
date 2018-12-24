@@ -1,15 +1,15 @@
 {
   "total" : 1,
   "items" : [ {
-    "uid" : "7db21133bf389fa43eef71e3fe0b0e68",
-    "name" : "test_login",
+    "uid" : "7f51ff3e2d6a77427a2dd3715d3203e2",
+    "name" : "testcase.groupbuy.test_index",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   } ]
 }

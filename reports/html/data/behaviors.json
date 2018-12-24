@@ -2,32 +2,20 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "CRM登陆",
+    "name" : "主页面测试用例集",
     "children" : [ {
-      "name" : "TestLogin.test_login_001",
-      "uid" : "39a7dc2f2e8d065a",
-      "parentUid" : "77d1fcb9ceacc484a7ecb51597f3d5f2",
+      "name" : "TestIndex.test_search",
+      "uid" : "ef50184473f1e486",
+      "parentUid" : "5df73cc90ba13f3659df68c4a2f39265",
       "status" : "passed",
       "time" : {
-        "start" : 1545051148872,
-        "stop" : 1545051154842,
-        "duration" : 5970
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "TestLogin.test_login_002",
-      "uid" : "f64c2ae8673996c",
-      "parentUid" : "77d1fcb9ceacc484a7ecb51597f3d5f2",
-      "status" : "passed",
-      "time" : {
-        "start" : 1545051154847,
-        "stop" : 1545051156048,
-        "duration" : 1201
+        "start" : 1545652594106,
+        "stop" : 1545652625171,
+        "duration" : 31065
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "77d1fcb9ceacc484a7ecb51597f3d5f2"
+    "uid" : "5df73cc90ba13f3659df68c4a2f39265"
   } ]
 }
